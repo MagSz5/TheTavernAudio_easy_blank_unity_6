@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{16bc59a7-bdf4-4c2c-bc0c-27d3bbe0850d}">
+		<property name="assetPath">
+			<value>player_steps_stone_jump2.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.32654166666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{05206f98-de2a-4993-a5fb-28e9132a681c}</destination>
+		</relationship>
+	</object>
+</objects>

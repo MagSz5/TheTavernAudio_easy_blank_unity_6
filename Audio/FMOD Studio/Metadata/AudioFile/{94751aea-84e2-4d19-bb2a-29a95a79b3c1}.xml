@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{94751aea-84e2-4d19-bb2a-29a95a79b3c1}">
+		<property name="assetPath">
+			<value>SFX/Ambience/Tavern/amb_tavern_fireplace.flac</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>429</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{05206f98-de2a-4993-a5fb-28e9132a681c}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{2c69025a-42d5-4da7-bab9-04ecbdfdf874}">
+		<property name="assetPath">
+			<value>player_steps_stone_land3.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.47675000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{05206f98-de2a-4993-a5fb-28e9132a681c}</destination>
+		</relationship>
+	</object>
+</objects>

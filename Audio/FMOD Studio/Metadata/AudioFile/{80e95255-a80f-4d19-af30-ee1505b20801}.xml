@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{80e95255-a80f-4d19-af30-ee1505b20801}">
+		<property name="assetPath">
+			<value>SFX_Mice6.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.2476666666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{05206f98-de2a-4993-a5fb-28e9132a681c}</destination>
+		</relationship>
+	</object>
+</objects>

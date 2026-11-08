@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{adf8ba9c-9bc5-425c-99f4-c0519f511c95}">
+		<property name="assetPath">
+			<value>player_steps_wood_jump2.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.32654166666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{05206f98-de2a-4993-a5fb-28e9132a681c}</destination>
+		</relationship>
+	</object>
+</objects>

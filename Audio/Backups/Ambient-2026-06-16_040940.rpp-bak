@@ -1,0 +1,1066 @@
+<REAPER_PROJECT 0.1 "7.69/win64" 1781575780 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 2.5
+  ZOOM 110.96997788092942 0 0
+  VZOOMEX 6 670
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "C:\Users\mszyma28\Desktop\Audio\SFX\Player\player_steps_wood_6.flac"
+  RENDER_FMT 0 2 48000
+  RENDER_1X 0
+  RENDER_RANGE 2 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 512
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    Y2FsZhgAAAAFAAAA
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 800 1600 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 6.5 0.5
+  SELECTION2 6.5 0.5
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {E0AD17E9-DF0D-4636-A4CB-E66D93B4690B}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {05036077-703A-414F-83F1-8442D971BB0C}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1
+  RULERLANE 2 8 "" 0 -1
+  <PROJBAY
+  >
+  <TRACK {021AED71-586B-44C7-B101-84BEC2E00D85}
+    NAME "Tavern ambience"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 159 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {021AED71-586B-44C7-B101-84BEC2E00D85}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 22
+      SNAPOFFS 0
+      LENGTH 144.01075
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.01 10.01075 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {700B70F6-FF95-46C0-8A34-C76F82140949}
+      IID 12
+      NAME 212096__conleec__small_town_bar_004.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 22
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27B6B745-8C75-436A-A6FE-9EC0B210B01A}
+      <SOURCE WAVE
+        FILE "212096__conleec__small_town_bar_004.wav"
+      >
+    >
+    <ITEM
+      POSITION 156
+      SNAPOFFS 0
+      LENGTH 22
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 10.01075 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {338A1022-C42D-4921-B0F9-A168650F6678}
+      IID 12
+      NAME 212096__conleec__small_town_bar_004.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA3A6B99-3C70-4C71-B004-F698C11016DF}
+      <SOURCE WAVE
+        FILE "212096__conleec__small_town_bar_004.wav"
+      >
+    >
+  >
+  <TRACK {E05972BA-2BCD-4B58-8436-2D930D3959C7}
+    NAME Fireplace
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 161 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E05972BA-2BCD-4B58-8436-2D930D3959C7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 24
+      SNAPOFFS 0
+      LENGTH 415.82591666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.01 10.825917 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4240F703-9A33-4033-90B9-3BF6C6657387}
+      IID 3
+      NAME 423437__inchadney__fire.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 24
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE0571E4-9F13-440D-8337-F536514ECA5B}
+      <SOURCE WAVE
+        FILE "423437__inchadney__fire.wav"
+      >
+    >
+    <ITEM
+      POSITION 429
+      SNAPOFFS 0
+      LENGTH 24
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 10.825917 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {795CE749-91E8-4205-BBE9-BE3D2BA087C7}
+      IID 3
+      NAME 423437__inchadney__fire.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27E30D71-5281-497F-B20B-B4C2155B2AF3}
+      <SOURCE WAVE
+        FILE "423437__inchadney__fire.wav"
+      >
+    >
+  >
+  <TRACK {A6BF3F97-DE02-44C5-BC54-2FB220DF2579}
+    NAME "Tavern music"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 161 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A6BF3F97-DE02-44C5-BC54-2FB220DF2579}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 5.55280492783031
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3368CCD1-5C90-4175-A72A-D25ACA091EE2}
+      IID 4
+      NAME "Ale and Anecdotes WAV.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {743A77F8-B001-4F60-852C-E97B364F4E10}
+      <SOURCE WAVE
+        FILE "Ale and Anecdotes WAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.55280492783031
+      SNAPOFFS 0
+      LENGTH 139.44719507216971
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E42396AC-BA10-451E-BDE3-291F53102972}
+      IID 4
+      NAME "Ale and Anecdotes WAV.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.55280492783031
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9A454593-47EE-4839-93EC-C54598531FE8}
+      <SOURCE WAVE
+        FILE "Ale and Anecdotes WAV.wav"
+      >
+    >
+  >
+  <TRACK {2153595D-A28A-4CC0-9E79-47A5CA74F9E0}
+    NAME "Forest ambience"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 172 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2153595D-A28A-4CC0-9E79-47A5CA74F9E0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 22
+      SNAPOFFS 0
+      LENGTH 74.56964583333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.01 10.069646 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6F4C72DD-4553-4BE5-9BE6-EA98D6FC6DC4}
+      IID 6
+      NAME 524493__klankbeeld__forest-summer-roond-006-200619_0186.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 21.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {87E76939-0FF8-4B6B-8D83-574D4BFFC434}
+      <SOURCE WAVE
+        FILE "524493__klankbeeld__forest-summer-roond-006-200619_0186.wav"
+      >
+    >
+    <ITEM
+      POSITION 86.5
+      SNAPOFFS 0
+      LENGTH 21.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 10.069646 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3002FF8F-AB01-4264-B865-93B96E9BA300}
+      IID 6
+      NAME 524493__klankbeeld__forest-summer-roond-006-200619_0186.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {13BBD9FE-922B-412C-82C8-C789B81CDBEE}
+      <SOURCE WAVE
+        FILE "524493__klankbeeld__forest-summer-roond-006-200619_0186.wav"
+      >
+    >
+  >
+  <TRACK {87D46D66-DCF5-49E8-84DB-B2CD9248C0B3}
+    NAME "Footsteps wood"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 207 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {87D46D66-DCF5-49E8-84DB-B2CD9248C0B3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.5
+      SNAPOFFS 0
+      LENGTH 0.44820833333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {6C1391D6-027E-4426-8F56-351E912FC7D0}
+      IID 20
+      NAME Footsteps_Wood_Walk_01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F015D475-298D-4660-8737-6460A9AB2E1A}
+      <SOURCE WAVE
+        FILE "C:\Users\mszyma28\My project\Assets\Footsteps - Essentials\Footsteps_Wood\Footsteps_Wood_Walk\Footsteps_Wood_Walk_01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 0.44093878128377
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {818A95FC-935D-4FC7-83EC-E4FB912D079B}
+      IID 21
+      NAME Footsteps_Wood_Walk_02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {909F696E-67B9-4F20-98F1-66461E1C5E16}
+      <SOURCE WAVE
+        FILE "C:\Users\mszyma28\My project\Assets\Footsteps - Essentials\Footsteps_Wood\Footsteps_Wood_Walk\Footsteps_Wood_Walk_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.5
+      SNAPOFFS 0
+      LENGTH 0.39027069996424
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {2B39C3FF-5677-47DA-92F3-161F24C935A8}
+      IID 27
+      NAME Footsteps_Wood_Walk_08.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {848BB854-BEAC-4AA5-AD86-8C55902B8406}
+      <SOURCE WAVE
+        FILE "C:\Users\mszyma28\My project\Assets\Footsteps - Essentials\Footsteps_Wood\Footsteps_Wood_Walk\Footsteps_Wood_Walk_08.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.5
+      SNAPOFFS 0
+      LENGTH 0.44943366472735
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {9DBAE882-5CFB-43FB-80E5-4897A5355401}
+      IID 23
+      NAME Footsteps_Wood_Walk_04.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6F079A4D-4DF6-4500-A488-244B2BE02602}
+      <SOURCE WAVE
+        FILE "C:\Users\mszyma28\My project\Assets\Footsteps - Essentials\Footsteps_Wood\Footsteps_Wood_Walk\Footsteps_Wood_Walk_04.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.5
+      SNAPOFFS 0
+      LENGTH 0.45994114756823
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {4BCF8249-2883-48D8-A105-A95E7E8FC8DC}
+      IID 25
+      NAME Footsteps_Wood_Walk_06.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {70D6CCFD-5894-45A0-AB42-199D70B153B0}
+      <SOURCE WAVE
+        FILE "C:\Users\mszyma28\My project\Assets\Footsteps - Essentials\Footsteps_Wood\Footsteps_Wood_Walk\Footsteps_Wood_Walk_06.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.5
+      SNAPOFFS 0
+      LENGTH 0.42656319707494
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {4829FB68-EE2C-4DDB-9070-D04CF5A72898}
+      IID 28
+      NAME Footsteps_Wood_Walk_09.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.08335346959173
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {010FF1BA-AE8B-4E1E-909A-F749451A5CF8}
+      <SOURCE WAVE
+        FILE "C:\Users\mszyma28\My project\Assets\Footsteps - Essentials\Footsteps_Wood\Footsteps_Wood_Walk\Footsteps_Wood_Walk_09.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.5
+      SNAPOFFS 0
+      LENGTH 0.45145001373059
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {AC26463F-A6F7-472A-ABB0-25F9A03F9935}
+      IID 24
+      NAME Footsteps_Wood_Walk_05.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.05177915293607
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D54CF063-A9FB-4D51-B82D-A7BB67AD3EF6}
+      <SOURCE WAVE
+        FILE "C:\Users\mszyma28\My project\Assets\Footsteps - Essentials\Footsteps_Wood\Footsteps_Wood_Walk\Footsteps_Wood_Walk_05.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 0.50995833333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {C3B142BA-D468-4210-B8D2-D6ED6AE487F1}
+      IID 22
+      NAME Footsteps_Wood_Walk_03.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {233C2506-2D9B-4677-8AB3-DCC521F26F69}
+      <SOURCE WAVE
+        FILE "C:\Users\mszyma28\My project\Assets\Footsteps - Essentials\Footsteps_Wood\Footsteps_Wood_Walk\Footsteps_Wood_Walk_03.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.5
+      SNAPOFFS 0
+      LENGTH 0.48920833333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {FBF047E6-C0D8-448E-B0F2-C309023AC331}
+      IID 29
+      NAME Footsteps_Wood_Walk_10.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6EC69204-4F1F-447E-B237-36DA1862FF05}
+      <SOURCE WAVE
+        FILE "C:\Users\mszyma28\My project\Assets\Footsteps - Essentials\Footsteps_Wood\Footsteps_Wood_Walk\Footsteps_Wood_Walk_10.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.5
+      SNAPOFFS 0
+      LENGTH 0.59279166666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {96A199F5-D102-42E5-926E-133C50A9C6EA}
+      IID 26
+      NAME Footsteps_Wood_Walk_07.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {14FEDD55-0802-4DD5-8502-2327AB62FD2A}
+      <SOURCE WAVE
+        FILE "C:\Users\mszyma28\My project\Assets\Footsteps - Essentials\Footsteps_Wood\Footsteps_Wood_Walk\Footsteps_Wood_Walk_07.wav"
+      >
+    >
+  >
+  <TRACK {E27C03C9-31A1-493D-A322-D7D9F6DA803E}
+    NAME "Footsteps stone"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.27038660407147 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E27C03C9-31A1-493D-A322-D7D9F6DA803E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.5
+      SNAPOFFS 0
+      LENGTH 5.05280492783031
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {872A76E3-F3B5-4650-810E-46215A11C4BE}
+      IID 49
+      NAME 834027__ienba__footsteps-on-tile.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {76EA6084-3E6D-4FD5-8A23-B62DCAA1B1AB}
+      <SOURCE WAVE
+        FILE "834027__ienba__footsteps-on-tile.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.55280492783031
+      SNAPOFFS 0
+      LENGTH 1.01263257216969
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C6AB49D9-E599-4269-836B-E922B8A88622}
+      IID 49
+      NAME 834027__ienba__footsteps-on-tile.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 5.05280492783031
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {93344B85-14D1-474B-B657-0A0E1B7CF89A}
+      <SOURCE WAVE
+        FILE "834027__ienba__footsteps-on-tile.wav"
+      >
+    >
+  >
+  <TRACK {0099B4C6-1B7F-40DA-BB53-5821B896EF45}
+    NAME "Jump wood"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0099B4C6-1B7F-40DA-BB53-5821B896EF45}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.29511195517905
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0351593C-6B9C-464C-94FB-CE55855CC527}
+      IID 57
+      NAME 148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.20464963768415
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4DD31DF1-887D-43CD-971E-B71E071C8710}
+      <SOURCE WAVE
+        FILE "148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.5
+      SNAPOFFS 0
+      LENGTH 0.34296975174807
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5BC520C0-0470-4AAE-852B-0492ED8A33B1}
+      IID 57
+      NAME 148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.49976159286319
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7328AAF5-A5A0-4A0A-AFC3-DCB692D700C3}
+      <SOURCE WAVE
+        FILE "148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav"
+      >
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 0.15726865538873
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.017827 0 1 0 0 0
+      FADEOUT 1 0.02461 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {207D6FF7-CC80-4932-9B0D-3F15DCFB5D9A}
+      IID 57
+      NAME 148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.84273134461127
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {10F41AD2-5A45-40AA-B710-B97C2F6302A1}
+      <SOURCE WAVE
+        FILE "148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.15726865538873
+      SNAPOFFS 0
+      LENGTH 0.72962648552104
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.043246 0 1 0 0 0
+      FADEOUT 1 0.031318 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6FE52324-3917-428F-B875-E86C7272CA42}
+      IID 57
+      NAME 148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {350811D4-3204-42ED-B1B5-D48C12C7F6A5}
+      <SOURCE WAVE
+        FILE "148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 0.55850008320151
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {15D8D0F0-B519-4B9C-8E35-F6989EE471AC}
+      IID 57
+      NAME 148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.7731475348996
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1FC5D7DE-A31F-4C52-90FE-64E9D1F363F3}
+      <SOURCE WAVE
+        FILE "148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.83164761810111
+      SNAPOFFS 0
+      LENGTH 0.62374542002412
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {23939B5A-B9CB-435C-A00A-ACB08EE99D98}
+      IID 57
+      NAME 148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.33164761810111
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ED815AA4-C84D-4AAF-A9E9-E7170E23AAD9}
+      <SOURCE WAVE
+        FILE "148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.45539303812523
+      SNAPOFFS 0
+      LENGTH 0.57415896403894
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {523C3F78-04D4-49A8-A423-C6EA59989D21}
+      IID 57
+      NAME 148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.95539303812523
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DE7F380A-D808-4B6B-B0A4-F85BB7A11DD5}
+      <SOURCE WAVE
+        FILE "148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.02955200216416
+      SNAPOFFS 0
+      LENGTH 0.62374542002412
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C3E01887-AE22-45B9-8BC6-8A5CC893DA96}
+      IID 57
+      NAME 148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.52955200216416
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ABD4E641-C8D0-49FA-8521-7E4F3C1C65B3}
+      <SOURCE WAVE
+        FILE "148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.65329742218828
+      SNAPOFFS 0
+      LENGTH 0.34670257781172
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B0EF2B02-9177-40F9-8826-1CC48CF38C91}
+      IID 57
+      NAME 148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.15329742218828
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D787D341-EF6F-4E92-AC46-CB93A2AB7850}
+      <SOURCE WAVE
+        FILE "148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav"
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 0.55629288381315
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E603A023-73A2-4A5B-99FC-A22E0752E5BA}
+      IID 57
+      NAME 148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2617BF1C-0DD4-467E-970F-1E681D6BA5A6}
+      <SOURCE WAVE
+        FILE "148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {60D1F4FF-7565-4C05-989B-6B99322135BE}
+      IID 57
+      NAME 148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 5.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C70A80DD-BFCF-480A-AC86-CF7693F1DC3E}
+      <SOURCE WAVE
+        FILE "148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B0088A5E-59DB-481D-8DB0-02E1D80198F1}
+      IID 57
+      NAME 148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 6
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8E7F1E35-8F4A-4B73-B316-FD25FC16AED4}
+      <SOURCE WAVE
+        FILE "148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav"
+      >
+    >
+  >
+  <TRACK {232854F4-D5BE-4EF4-A9C0-E0C2461CD5E3}
+    NAME "Jump stone"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {232854F4-D5BE-4EF4-A9C0-E0C2461CD5E3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {B18F3F25-42A7-40FC-86A1-7EC4A8E20CCB}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B18F3F25-42A7-40FC-86A1-7EC4A8E20CCB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {497DFD12-32F7-48B4-B50D-B6DDAA638009}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {497DFD12-32F7-48B4-B50D-B6DDAA638009}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+>

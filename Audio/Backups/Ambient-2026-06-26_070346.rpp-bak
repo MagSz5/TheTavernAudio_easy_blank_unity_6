@@ -1,0 +1,3202 @@
+<REAPER_PROJECT 0.1 "7.69/win64" 1782450226 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 5
+  ZOOM 45.33630461527319 0 0
+  VZOOMEX 5.35707474 1307
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Audio\SFX\Sound_Effects\Mice\SFX_Mice2.flac"
+  RENDER_FMT 0 2 48000
+  RENDER_1X 0
+  RENDER_RANGE 2 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 512
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    Y2FsZhgAAAAFAAAA
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 800 1600 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 5 7.5
+  SELECTION2 5 7.5
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {E0AD17E9-DF0D-4636-A4CB-E66D93B4690B}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {05036077-703A-414F-83F1-8442D971BB0C}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1
+  RULERLANE 2 8 "" 0 -1
+  <PROJBAY
+  >
+  <TRACK {021AED71-586B-44C7-B101-84BEC2E00D85}
+    NAME "Tavern ambience"
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {021AED71-586B-44C7-B101-84BEC2E00D85}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.3969329587337
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {700B70F6-FF95-46C0-8A34-C76F82140949}
+      IID 12
+      NAME 212096__conleec__small_town_bar_004.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 22
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27B6B745-8C75-436A-A6FE-9EC0B210B01A}
+      <SOURCE WAVE
+        FILE "212096__conleec__small_town_bar_004.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.3969329587337
+      SNAPOFFS 0
+      LENGTH 143.61381704126629
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 10.01075 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C101AD4D-8D75-48FD-A8F6-310C7FFE4C71}
+      IID 12
+      NAME 212096__conleec__small_town_bar_004.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 22.3969329587337
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A62B520D-D2CD-48F2-A9C9-92880600900C}
+      <SOURCE WAVE
+        FILE "212096__conleec__small_town_bar_004.wav"
+      >
+    >
+    <ITEM
+      POSITION 134
+      SNAPOFFS 0
+      LENGTH 22
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 10.01075 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {338A1022-C42D-4921-B0F9-A168650F6678}
+      IID 12
+      NAME 212096__conleec__small_town_bar_004.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA3A6B99-3C70-4C71-B004-F698C11016DF}
+      <SOURCE WAVE
+        FILE "212096__conleec__small_town_bar_004.wav"
+      >
+    >
+  >
+  <TRACK {E05972BA-2BCD-4B58-8436-2D930D3959C7}
+    NAME Fireplace
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E05972BA-2BCD-4B58-8436-2D930D3959C7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.3969329587337
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4240F703-9A33-4033-90B9-3BF6C6657387}
+      IID 3
+      NAME 423437__inchadney__fire.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 24
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE0571E4-9F13-440D-8337-F536514ECA5B}
+      <SOURCE WAVE
+        FILE "423437__inchadney__fire.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.3969329587337
+      SNAPOFFS 0
+      LENGTH 415.42898370793296
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 10.825917 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CF58902E-55EE-4369-82DA-ABCAAFCD084D}
+      IID 3
+      NAME 423437__inchadney__fire.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 24.3969329587337
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {889B327F-7377-4929-94B0-BB2495B0C3C2}
+      <SOURCE WAVE
+        FILE "423437__inchadney__fire.wav"
+      >
+    >
+    <ITEM
+      POSITION 405
+      SNAPOFFS 0
+      LENGTH 24
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 10.825917 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {795CE749-91E8-4205-BBE9-BE3D2BA087C7}
+      IID 3
+      NAME 423437__inchadney__fire.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27E30D71-5281-497F-B20B-B4C2155B2AF3}
+      <SOURCE WAVE
+        FILE "423437__inchadney__fire.wav"
+      >
+    >
+  >
+  <TRACK {A6BF3F97-DE02-44C5-BC54-2FB220DF2579}
+    NAME "Tavern music"
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A6BF3F97-DE02-44C5-BC54-2FB220DF2579}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.3969329587337
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3368CCD1-5C90-4175-A72A-D25ACA091EE2}
+      IID 4
+      NAME "Ale and Anecdotes WAV.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {743A77F8-B001-4F60-852C-E97B364F4E10}
+      <SOURCE WAVE
+        FILE "Ale and Anecdotes WAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.3969329587337
+      SNAPOFFS 0
+      LENGTH 3.1030670412663
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C12DA048-B68A-4250-A83A-268D61E56AA2}
+      IID 4
+      NAME "Ale and Anecdotes WAV.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.3969329587337
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BFB71014-FEF6-408C-BF97-604E2D7052D0}
+      <SOURCE WAVE
+        FILE "Ale and Anecdotes WAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1F2B7C2B-5007-4248-81D5-6430E8EF7D82}
+      IID 4
+      NAME "Ale and Anecdotes WAV.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3D41E37C-E789-4CF7-8204-D38EBE3D8F74}
+      <SOURCE WAVE
+        FILE "Ale and Anecdotes WAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 1.55280492783031
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FE4F10E6-2E77-4F68-8368-8B7C92D6B540}
+      IID 4
+      NAME "Ale and Anecdotes WAV.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {682D2C55-59F3-4F37-870A-888222712484}
+      <SOURCE WAVE
+        FILE "Ale and Anecdotes WAV.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.55280492783031
+      SNAPOFFS 0
+      LENGTH 139.44719507216971
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E42396AC-BA10-451E-BDE3-291F53102972}
+      IID 4
+      NAME "Ale and Anecdotes WAV.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.55280492783031
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9A454593-47EE-4839-93EC-C54598531FE8}
+      <SOURCE WAVE
+        FILE "Ale and Anecdotes WAV.wav"
+      >
+    >
+  >
+  <TRACK {2153595D-A28A-4CC0-9E79-47A5CA74F9E0}
+    NAME "Forest ambience"
+    PEAKCOL 16842751
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2153595D-A28A-4CC0-9E79-47A5CA74F9E0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.3969329587337
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6F4C72DD-4553-4BE5-9BE6-EA98D6FC6DC4}
+      IID 6
+      NAME 524493__klankbeeld__forest-summer-roond-006-200619_0186.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 21.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {87E76939-0FF8-4B6B-8D83-574D4BFFC434}
+      <SOURCE WAVE
+        FILE "524493__klankbeeld__forest-summer-roond-006-200619_0186.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.3969329587337
+      SNAPOFFS 0
+      LENGTH 74.17271287459964
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 10.069646 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A9C914A0-E4BB-4978-B587-41772B0E1BB3}
+      IID 6
+      NAME 524493__klankbeeld__forest-summer-roond-006-200619_0186.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 21.8969329587337
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F112713-0398-4BCF-B3B2-1580DFCABB45}
+      <SOURCE WAVE
+        FILE "524493__klankbeeld__forest-summer-roond-006-200619_0186.wav"
+      >
+    >
+    <ITEM
+      POSITION 64.5
+      SNAPOFFS 0
+      LENGTH 21.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 10.069646 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3002FF8F-AB01-4264-B865-93B96E9BA300}
+      IID 6
+      NAME 524493__klankbeeld__forest-summer-roond-006-200619_0186.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {13BBD9FE-922B-412C-82C8-C789B81CDBEE}
+      <SOURCE WAVE
+        FILE "524493__klankbeeld__forest-summer-roond-006-200619_0186.wav"
+      >
+    >
+  >
+  <TRACK {87D46D66-DCF5-49E8-84DB-B2CD9248C0B3}
+    NAME "Wood walk"
+    PEAKCOL 16842496
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {87D46D66-DCF5-49E8-84DB-B2CD9248C0B3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.48663301381653
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5367428A-CE4B-4E61-8492-AC9E3EA2B176}
+      IID 310
+      NAME "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.08253998838109
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0CF908F3-5976-4A69-8222-6067C9A55C0E}
+      <SOURCE MP3
+        FILE "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Wood\WoodWalk\Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      >
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 0.53553936030243
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F59AA9B7-DDB7-44A1-8D1E-7E5CD2D5A4EF}
+      IID 310
+      NAME "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.1002538130877
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E364DD6-F188-47C2-BEC9-CCDD7C552990}
+      <SOURCE MP3
+        FILE "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Wood\WoodWalk\Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 0.50677864020148
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1F44E6C4-A3C2-43D2-A750-E0C933FE5442}
+      IID 310
+      NAME "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.63579317339012
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {38B3288A-4062-4D5A-95D5-442361272FBB}
+      <SOURCE MP3
+        FILE "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Wood\WoodWalk\Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 0.47508333063225
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6597939C-D0C9-46CA-8D1E-7D02EB2212E8}
+      IID 310
+      NAME "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.09379278145358
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {47C9007C-9689-45B7-9B97-2EC185E17680}
+      <SOURCE MP3
+        FILE "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Wood\WoodWalk\Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      >
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 0.48606739557345
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {83ACD8D9-D376-405D-A0DA-69FA50A95AD4}
+      IID 310
+      NAME "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.60892087745539
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {026E1400-B408-4896-BC31-7C4978BA9974}
+      <SOURCE MP3
+        FILE "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Wood\WoodWalk\Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 0.47529975487303
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F9A0DEC7-1B48-4B3D-A492-EC138B485798}
+      IID 310
+      NAME "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 4.60724023350806
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0106F574-5ABE-42DA-B0DD-FF379223051D}
+      <SOURCE MP3
+        FILE "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Wood\WoodWalk\Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      >
+    >
+  >
+  <TRACK {E27C03C9-31A1-493D-A322-D7D9F6DA803E}
+    NAME "Stone Walk"
+    PEAKCOL 16842496
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.27038660407147 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E27C03C9-31A1-493D-A322-D7D9F6DA803E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 2855 215 734 521
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
+        Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAP////8BAAAALAAAAAIAAAAAAAAAYDsDPgAAAAAAAAAAAACAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAIA/AAAAPw==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E67C7773-B2BE-4545-90F6-031AB583DD54}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.3731069259117
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1BB8E1DC-715A-4E43-998F-806879BB33BC}
+      IID 344
+      NAME YTMP3GG_YouTube_Walking-on-Concrete-Series-Free-Sound-Ef_Media_UtSpAelL0KU_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 7.22858295777598
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {094B9246-A162-4DDE-A9F1-A98E445D1679}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Walking-on-Concrete-Series-Free-Sound-Ef_Media_UtSpAelL0KU_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneWalk\YTMP3GG_YouTube_Walking-on-Concrete-Series-Free-Sound-Ef_Media_UtSpAelL0KU_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 0.5
+      SNAPOFFS 0
+      LENGTH 0.43727237848934
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.02100736766212 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {07202C9E-5574-40FB-B0E1-1311714D0B91}
+      IID 344
+      NAME YTMP3GG_YouTube_Walking-on-Concrete-Series-Free-Sound-Ef_Media_UtSpAelL0KU_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 9.3694766558262
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD2778CD-E5BF-4D4E-AB17-E661E90CA320}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Walking-on-Concrete-Series-Free-Sound-Ef_Media_UtSpAelL0KU_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneWalk\YTMP3GG_YouTube_Walking-on-Concrete-Series-Free-Sound-Ef_Media_UtSpAelL0KU_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 0.37231008718767
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F03172A6-0F04-4316-9F87-B1CCC44792A3}
+      IID 344
+      NAME YTMP3GG_YouTube_Walking-on-Concrete-Series-Free-Sound-Ef_Media_UtSpAelL0KU_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 7.74723604082114
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {380D272D-E199-4628-B069-C17746106072}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Walking-on-Concrete-Series-Free-Sound-Ef_Media_UtSpAelL0KU_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneWalk\YTMP3GG_YouTube_Walking-on-Concrete-Series-Free-Sound-Ef_Media_UtSpAelL0KU_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 0.38660865668266
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0FE732F7-CE24-48E5-845C-5F3EE5777AEE}
+      IID 344
+      NAME YTMP3GG_YouTube_Walking-on-Concrete-Series-Free-Sound-Ef_Media_UtSpAelL0KU_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.43654427750008
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {08336655-EA10-41CC-944C-A43F06D52176}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Walking-on-Concrete-Series-Free-Sound-Ef_Media_UtSpAelL0KU_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneWalk\YTMP3GG_YouTube_Walking-on-Concrete-Series-Free-Sound-Ef_Media_UtSpAelL0KU_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 0.40364050228992
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2EA36420-489D-49E5-9FE8-671F6BD4F42F}
+      IID 344
+      NAME YTMP3GG_YouTube_Walking-on-Concrete-Series-Free-Sound-Ef_Media_UtSpAelL0KU_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.95556932970228
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {01C493B8-102F-419C-85EF-72AA57C88EFD}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Walking-on-Concrete-Series-Free-Sound-Ef_Media_UtSpAelL0KU_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneWalk\YTMP3GG_YouTube_Walking-on-Concrete-Series-Free-Sound-Ef_Media_UtSpAelL0KU_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 2.5
+      SNAPOFFS 0
+      LENGTH 0.40128132316896
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {595EA139-13DE-4BCA-9581-5C3B64AB89C0}
+      IID 344
+      NAME YTMP3GG_YouTube_Walking-on-Concrete-Series-Free-Sound-Ef_Media_UtSpAelL0KU_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {59C08AD0-3194-4080-B754-FC368F58B22D}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Walking-on-Concrete-Series-Free-Sound-Ef_Media_UtSpAelL0KU_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneWalk\YTMP3GG_YouTube_Walking-on-Concrete-Series-Free-Sound-Ef_Media_UtSpAelL0KU_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 22.5
+      SNAPOFFS 0
+      LENGTH 24.92722251065067
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B7E41C2F-EA6D-4790-8B4F-F9AB389AB46E}
+      IID 344
+      NAME YTMP3GG_YouTube_Walking-on-Concrete-Series-Free-Sound-Ef_Media_UtSpAelL0KU_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 10.45998837370307
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E18AB1F-56D0-4595-9596-E153B486F2C1}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Walking-on-Concrete-Series-Free-Sound-Ef_Media_UtSpAelL0KU_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneWalk\YTMP3GG_YouTube_Walking-on-Concrete-Series-Free-Sound-Ef_Media_UtSpAelL0KU_007_128k.mp3"
+      >
+    >
+  >
+  <TRACK {6602F70C-B8C1-4855-8607-6F8DD234AA23}
+    NAME "Stairs Walk"
+    PEAKCOL 16842496
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6602F70C-B8C1-4855-8607-6F8DD234AA23}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.351875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.02721127293433 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B9FD9808-84AB-4127-A190-F8BAA5B164CF}
+      IID 110
+      NAME WAV_Footsteps_Wood_V1_Walk_11.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D8CB17E3-AAFF-45DD-92CF-6567CE725AEE}
+      <SOURCE WAVE
+        FILE "WAV_Footsteps_Wood_V1_Walk_11.WAV"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stairs\StairsWalk\WAV_Footsteps_Wood_V1_Walk_11.WAV"
+      >
+    >
+    <ITEM
+      POSITION 0.5
+      SNAPOFFS 0
+      LENGTH 0.351875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.06727099292462 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {426A4309-F4BF-41CA-8393-4D0B83D8B182}
+      IID 100
+      NAME WAV_Footsteps_Wood_V1_Walk_1.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {39A3CD29-68EF-482E-9ED3-CF33E6A02709}
+      <SOURCE WAVE
+        FILE "WAV_Footsteps_Wood_V1_Walk_1.WAV"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stairs\StairsWalk\WAV_Footsteps_Wood_V1_Walk_1.WAV"
+      >
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 0.351875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.03879059275661 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E523BCFF-60DB-4B99-8407-8F27CEE45E34}
+      IID 109
+      NAME WAV_Footsteps_Wood_V1_Walk_10.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E361949-052A-4267-9DAC-4F8B28FB9589}
+      <SOURCE WAVE
+        FILE "WAV_Footsteps_Wood_V1_Walk_10.WAV"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stairs\StairsWalk\WAV_Footsteps_Wood_V1_Walk_10.WAV"
+      >
+    >
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 0.351875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.03015075368706 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DC16D460-D7D7-426E-8CF7-B6B0F9EF2E79}
+      IID 106
+      NAME WAV_Footsteps_Wood_V1_Walk_7.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B0F4CB3B-01CE-4E69-B186-41A3706D0940}
+      <SOURCE WAVE
+        FILE "WAV_Footsteps_Wood_V1_Walk_7.WAV"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stairs\StairsWalk\WAV_Footsteps_Wood_V1_Walk_7.WAV"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 0.351875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.03143119516673 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8DECC1B2-4564-41BA-9315-88B202BBB100}
+      IID 114
+      NAME WAV_Footsteps_Wood_V1_Walk_15.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1A982E7D-886D-44DF-96A5-508A8811B62C}
+      <SOURCE WAVE
+        FILE "WAV_Footsteps_Wood_V1_Walk_15.WAV"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stairs\StairsWalk\WAV_Footsteps_Wood_V1_Walk_15.WAV"
+      >
+    >
+    <ITEM
+      POSITION 2.5
+      SNAPOFFS 0
+      LENGTH 0.351875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.0336134803327 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {064DFBA5-C051-4ECB-95E3-C055ED2C0600}
+      IID 108
+      NAME WAV_Footsteps_Wood_V1_Walk_9.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE61DA71-3F49-4CE5-A908-C96C76297DAE}
+      <SOURCE WAVE
+        FILE "WAV_Footsteps_Wood_V1_Walk_9.WAV"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stairs\StairsWalk\WAV_Footsteps_Wood_V1_Walk_9.WAV"
+      >
+    >
+  >
+  <TRACK {D5608610-9F92-4F73-90CD-CB49F691783D}
+    NAME "Chandelier Walk"
+    PEAKCOL 16842496
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.17471604744101 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D5608610-9F92-4F73-90CD-CB49F691783D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+  >
+  <TRACK {36EEF4CD-D652-49CE-AE29-C2E88D03B132}
+    NAME "Chandelier Walk"
+    PEAKCOL 16842496
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {36EEF4CD-D652-49CE-AE29-C2E88D03B132}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.48663301381653
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6966C20C-C24B-4754-B285-C3E130A96A97}
+      IID 392
+      NAME "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.08253998838109
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA5C4AAA-E026-4FA1-AAD9-5232EFF072A3}
+      <SOURCE MP3
+        FILE "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Wood\WoodWalk\Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      >
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 0.53553936030243
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B28AADB6-ECFD-4935-B0CA-599C5C8FAFF0}
+      IID 393
+      NAME "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.1002538130877
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BACAF7F5-3439-4194-9F33-00908D69D208}
+      <SOURCE MP3
+        FILE "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Wood\WoodWalk\Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 0.50677864020148
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8CDD3626-1AAE-4306-ADAE-8443C5E69371}
+      IID 394
+      NAME "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.63579317339012
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC0EC7C9-82F8-454A-9579-50E94D8EA09F}
+      <SOURCE MP3
+        FILE "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Wood\WoodWalk\Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 0.47508333063225
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5191CC2A-FDE6-45D2-8B9A-A942D46CF20F}
+      IID 395
+      NAME "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.09379278145358
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF9D14CA-A1A3-4755-9E4D-B2702EBB50AC}
+      <SOURCE MP3
+        FILE "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Wood\WoodWalk\Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      >
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 0.48606739557345
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E2775997-8EAC-4457-B7DD-A9C8D7400F9A}
+      IID 396
+      NAME "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.60892087745539
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {38A238E6-5196-48BD-8413-17A24EBFDD81}
+      <SOURCE MP3
+        FILE "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Wood\WoodWalk\Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 0.47529975487303
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D1C646DA-BBF8-4885-96E9-F8D1A12C4751}
+      IID 397
+      NAME "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 4.60724023350806
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0778B81C-9A53-4F0F-BBAA-35731525E6FD}
+      <SOURCE MP3
+        FILE "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Wood\WoodWalk\Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      >
+    >
+  >
+  <TRACK {DE636D58-E13F-4440-A828-E5AFF98DF9B0}
+    NAME "Wood Run"
+    PEAKCOL 16793792
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DE636D58-E13F-4440-A828-E5AFF98DF9B0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 1944 52 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
+        Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAP0pOwTkAAAAAAACAP8UgED8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAIA/AAAAPw==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5EC7C6C6-EF13-4ADA-9526-971BF8E4FED1}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.3410714582325
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.04846912091357 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4890B910-9DD9-485E-96DF-36093ECE0D2B}
+      IID 338
+      NAME "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.11323495516374
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {25D8B78B-FB59-4EE9-842F-2A27D45AA68E}
+      <SOURCE MP3
+        FILE "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Wood\WoodWalk\Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      >
+    >
+    <ITEM
+      POSITION 0.3410714582325
+      SNAPOFFS 0
+      LENGTH 0.36789287442615
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.05221781787107 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {451960AD-FA27-4059-AF88-DAA5D0DB0E98}
+      IID 339
+      NAME "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.13742041229104
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {762EA842-B117-47BA-9F2E-31B0E6C4D3D5}
+      <SOURCE MP3
+        FILE "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Wood\WoodWalk\Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      >
+    >
+    <ITEM
+      POSITION 0.70896433265865
+      SNAPOFFS 0
+      LENGTH 0.33185594305506
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.06850829350886 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {348EAF99-ACC8-4EC2-B4FF-6A0B944EC075}
+      IID 340
+      NAME "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.63310437350029
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E7DA9A1-512F-47E6-AAFE-BEA172A4495F}
+      <SOURCE MP3
+        FILE "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Wood\WoodWalk\Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      >
+    >
+    <ITEM
+      POSITION 1.04082027571371
+      SNAPOFFS 0
+      LENGTH 0.36499331230821
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.08253326295909 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6F06F864-D616-4575-9B43-1D1040E9F368}
+      IID 343
+      NAME "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 4.6218832424034
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06E35FA2-9812-4A1D-92EE-2DB85FD1216F}
+      <SOURCE MP3
+        FILE "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Wood\WoodWalk\Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      >
+    >
+    <ITEM
+      POSITION 1.40581358802192
+      SNAPOFFS 0
+      LENGTH 0.36549771827041
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.09494334842954 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6924F2E1-4C6E-4643-8CDE-90A2CF57C1CA}
+      IID 342
+      NAME "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.64237184549901
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90BEB754-919D-453B-8DD7-BE20B57300C6}
+      <SOURCE MP3
+        FILE "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Wood\WoodWalk\Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      >
+    >
+    <ITEM
+      POSITION 1.77131130629232
+      SNAPOFFS 0
+      LENGTH 0.32843914982233
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.0976853041793 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7BD6C81C-E27C-4276-847E-8D2DD121220A}
+      IID 341
+      NAME "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.15094114426748
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C84989C5-4604-4F8B-9B09-E9A4EC4C6B3B}
+      <SOURCE MP3
+        FILE "Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Wood\WoodWalk\Sneaker Fast Walk Solid Wood - Free Sound Effects.mp3"
+      >
+    >
+  >
+  <TRACK {60337483-0634-403B-9D1E-DD8469FCB274}
+    NAME "Stone Run"
+    PEAKCOL 16793792
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.34264637489056 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {60337483-0634-403B-9D1E-DD8469FCB274}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 3002 319 734 521
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531<56535472657063726561706974636800> ""
+        Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAP////8BAAAALAAAAAIAAAAAAAAAjNOOPxfdFTwAAAAAAACAPzvfDz8AAAA/AAAAP28SAz8AAAA/AAAAPwAAAD8AAIA/AAAAPw==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5E37B4DB-3572-4813-BC69-42CE0DE30AC5}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.35166688476088
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4378E20E-55EC-41A3-BC88-85875BD20319}
+      IID 376
+      NAME YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 8.98771503320849
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8CB1A82A-2DAB-48D6-A9C4-DDC96BE13A5C}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneLand\YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 0.35166688476088
+      SNAPOFFS 0
+      LENGTH 0.31852550295095
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A132B18E-447B-4DF9-8738-6F14F1987F46}
+      IID 390
+      NAME YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 5.21818624101672
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82B3F895-8266-4E1D-8CCA-2B593962FB60}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneLand\YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 0.67019238771183
+      SNAPOFFS 0
+      LENGTH 0.31686311033211
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C5C3F921-4F1B-4197-92F3-E4C0CB81082E}
+      IID 373
+      NAME YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 2.59017157913669
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97CB27A6-C1A3-4CED-B1BA-022CF717F945}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneLand\YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 0.98705549804394
+      SNAPOFFS 0
+      LENGTH 0.32681084840343
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01472950302663 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6D747E41-BB8C-48AD-9BB3-778A582645C5}
+      IID 384
+      NAME YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 15.44573972861728
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D76167D2-7408-44E2-8C5C-F59EE58C97BD}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneLand\YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 1.31386634644737
+      SNAPOFFS 0
+      LENGTH 0.35903163627419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FE5FABAF-A080-4DBD-89FF-B983F27A2464}
+      IID 387
+      NAME YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.50947531642501
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B5877019-7C15-4CDC-83A5-83A140D57488}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneLand\YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 1.67289798272157
+      SNAPOFFS 0
+      LENGTH 0.33374124460958
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CE2CAFE6-2EA3-4083-9BD3-5E085C85CD3C}
+      IID 382
+      NAME YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 12.0475724637412
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9FA8F994-AAA7-4E56-B2EC-B26DED826009}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneLand\YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3"
+      >
+    >
+  >
+  <TRACK {DA619AA5-D2E8-4262-A162-AFC6E296193B}
+    NAME "Stairs Run"
+    PEAKCOL 16793792
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DA619AA5-D2E8-4262-A162-AFC6E296193B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.351875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ABDB7E40-78ED-4C2C-9489-11E30DB339C9}
+      IID 117
+      NAME WAV_Footsteps_Wood_V1_Run_3.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1CB8EB48-EC4C-436C-8A15-02BD21DF66FE}
+      <SOURCE WAVE
+        FILE "WAV_Footsteps_Wood_V1_Run_3.WAV"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stairs\StairsRun\WAV_Footsteps_Wood_V1_Run_3.WAV"
+      >
+    >
+    <ITEM
+      POSITION 0.351875
+      SNAPOFFS 0
+      LENGTH 0.351875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2B1D5F03-E1DE-4D8C-9DBA-147DDB145FAE}
+      IID 391
+      NAME WAV_Footsteps_Wood_V1_Run_4-glued.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {81CF135E-F42D-446F-A303-B076F8B28267}
+      <SOURCE WAVE
+        FILE "WAV_Footsteps_Wood_V1_Run_4-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.70375
+      SNAPOFFS 0
+      LENGTH 0.351875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {97AA31BD-463B-4966-B769-9124C278938B}
+      IID 119
+      NAME WAV_Footsteps_Wood_V1_Run_5.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {59F65984-8192-4350-8201-29AB0F82B693}
+      <SOURCE WAVE
+        FILE "WAV_Footsteps_Wood_V1_Run_5.WAV"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stairs\StairsRun\WAV_Footsteps_Wood_V1_Run_5.WAV"
+      >
+    >
+    <ITEM
+      POSITION 1.055625
+      SNAPOFFS 0
+      LENGTH 0.351875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AAC924A1-1B29-4A63-ACCF-92F2291CD78E}
+      IID 124
+      NAME WAV_Footsteps_Wood_V1_Run_10.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {668648F5-6BD4-4E4A-A69C-C3840ECB1DF1}
+      <SOURCE WAVE
+        FILE "WAV_Footsteps_Wood_V1_Run_10.WAV"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stairs\StairsRun\WAV_Footsteps_Wood_V1_Run_10.WAV"
+      >
+    >
+    <ITEM
+      POSITION 1.4075
+      SNAPOFFS 0
+      LENGTH 0.351875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4C632D18-6A4D-4C23-9FB0-3070E2D881DD}
+      IID 125
+      NAME WAV_Footsteps_Wood_V1_Run_11.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE140DA8-855C-4411-AF3E-BBAD3533EC52}
+      <SOURCE WAVE
+        FILE "WAV_Footsteps_Wood_V1_Run_11.WAV"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stairs\StairsRun\WAV_Footsteps_Wood_V1_Run_11.WAV"
+      >
+    >
+    <ITEM
+      POSITION 1.759375
+      SNAPOFFS 0
+      LENGTH 0.34295858694974
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A450AC3A-D38D-44EC-BE0F-CF01D071759D}
+      IID 126
+      NAME WAV_Footsteps_Wood_V1_Run_12.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F7DE1DE6-D565-4705-A6E2-D4E91A32A3FA}
+      <SOURCE WAVE
+        FILE "WAV_Footsteps_Wood_V1_Run_12.WAV"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stairs\StairsRun\WAV_Footsteps_Wood_V1_Run_12.WAV"
+      >
+    >
+  >
+  <TRACK {0099B4C6-1B7F-40DA-BB53-5821B896EF45}
+    NAME "Wood Jump"
+    PEAKCOL 33521664
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0099B4C6-1B7F-40DA-BB53-5821B896EF45}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 28.02648526077098
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A06C3CA2-F751-4C68-BCBE-73D10841E631}
+      IID 227
+      NAME "Sneaker Foot Slides Hollow Wood - Free Sound Effects.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {77937DD9-7058-4B91-A70B-BE1AF690691E}
+      <SOURCE MP3
+        FILE "Sneaker Foot Slides Hollow Wood - Free Sound Effects.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Wood\WoodJump\Sneaker Foot Slides Hollow Wood - Free Sound Effects.mp3"
+      >
+    >
+  >
+  <TRACK {232854F4-D5BE-4EF4-A9C0-E0C2461CD5E3}
+    NAME "Stone Jump"
+    PEAKCOL 33521664
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {232854F4-D5BE-4EF4-A9C0-E0C2461CD5E3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 32.22929705215419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E548D229-199B-4F57-9C55-D5643AB3DF87}
+      IID 225
+      NAME "Sneaker Foot Slides Light Grit - Free Sound Effects - Free SFX (192k).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {92C1FBF4-B8B0-4921-8CEE-E35EC681EBE0}
+      <SOURCE MP3
+        FILE "Sneaker Foot Slides Light Grit - Free Sound Effects - Free SFX (192k).mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneJump\Sneaker Foot Slides Light Grit - Free Sound Effects - Free SFX (192k).mp3"
+      >
+    >
+  >
+  <TRACK {B18F3F25-42A7-40FC-86A1-7EC4A8E20CCB}
+    NAME "Stairs Jump"
+    PEAKCOL 33521664
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B18F3F25-42A7-40FC-86A1-7EC4A8E20CCB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+  >
+  <TRACK {497DFD12-32F7-48B4-B50D-B6DDAA638009}
+    NAME "Chandelier Jump"
+    PEAKCOL 33521664
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {497DFD12-32F7-48B4-B50D-B6DDAA638009}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {8EF4D6B4-35F5-45C4-98DA-27E3B1B98610}
+    NAME "Chandelier Jump"
+    PEAKCOL 33521664
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8EF4D6B4-35F5-45C4-98DA-27E3B1B98610}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.3969329587337
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F8666857-4D87-441D-8783-3C2860BB5A8F}
+      IID 132
+      NAME CHAINImpt_InsJ_Chains_Metal_Dropping_Close_01-01.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8C43FC68-CC4E-4643-BAAA-E8D99DB8AAD0}
+      <SOURCE WAVE
+        FILE "CHAINImpt_InsJ_Chains_Metal_Dropping_Close_01-01.WAV"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\ChandelierMisc\CHAINImpt_InsJ_Chains_Metal_Dropping_Close_01-01.WAV"
+      >
+    >
+    <ITEM
+      POSITION 0.3969329587337
+      SNAPOFFS 0
+      LENGTH 0.81937089614158
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2088045E-320A-42BC-A60B-0A1A773997C0}
+      IID 132
+      NAME CHAINImpt_InsJ_Chains_Metal_Dropping_Close_01-01.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0.3969329587337
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CC405B76-44C0-4BA7-9DC9-E4DF6EBAB770}
+      <SOURCE WAVE
+        FILE "CHAINImpt_InsJ_Chains_Metal_Dropping_Close_01-01.WAV"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\ChandelierMisc\CHAINImpt_InsJ_Chains_Metal_Dropping_Close_01-01.WAV"
+      >
+    >
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 1.73696145124717
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EF89712F-897B-4711-8C25-27C7E800D56D}
+      IID 133
+      NAME CHAINImpt_InsJ_Chains_Metal_Lifting_Close_02-01.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC4DB7E1-57B9-479E-A7AE-A978A4374181}
+      <SOURCE WAVE
+        FILE "CHAINImpt_InsJ_Chains_Metal_Lifting_Close_02-01.WAV"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\ChandelierMisc\CHAINImpt_InsJ_Chains_Metal_Lifting_Close_02-01.WAV"
+      >
+    >
+    <ITEM
+      POSITION 3.5
+      SNAPOFFS 0
+      LENGTH 4.13774464843995
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2EE608B9-2A8A-4D15-8821-FB35279FF4C7}
+      IID 134
+      NAME freesound_community-metal-chain-01-64045.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5CE029B4-5D17-4270-A6F3-9CB04D1ADE14}
+      <SOURCE MP3
+        FILE "freesound_community-metal-chain-01-64045.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\ChandelierMisc\freesound_community-metal-chain-01-64045.mp3"
+      >
+    >
+    <ITEM
+      POSITION 10
+      SNAPOFFS 0
+      LENGTH 29.08734731577124
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ABDB24F7-8E34-4D41-80EE-17F9B9E17D14}
+      IID 134
+      NAME freesound_community-metal-chain-01-64045.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 6.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4D5B5355-0FEA-4686-9375-6BAB41FD6195}
+      <SOURCE MP3
+        FILE "freesound_community-metal-chain-01-64045.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\ChandelierMisc\freesound_community-metal-chain-01-64045.mp3"
+      >
+    >
+    <ITEM
+      POSITION 40
+      SNAPOFFS 0
+      LENGTH 25.82897916666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {85741187-8AB1-4C90-86F3-BE0E144D8B30}
+      IID 134
+      NAME freesound_community-metal-chain-01-64045.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 36.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA9524AB-656D-4CF1-9F29-C164C48354C0}
+      <SOURCE MP3
+        FILE "freesound_community-metal-chain-01-64045.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\ChandelierMisc\freesound_community-metal-chain-01-64045.mp3"
+      >
+    >
+  >
+  <TRACK {B6DCB60E-890A-4375-80AA-DE4638C3E9D0}
+    NAME "Wood Land"
+    PEAKCOL 33521792
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B6DCB60E-890A-4375-80AA-DE4638C3E9D0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 19.35780045351474
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A649F394-777A-49BF-BEFC-1CBD32342ECC}
+      IID 228
+      NAME "Sneaker Jump Solid Wood - Free Sound Effects.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DFAEAF6B-D1B4-4840-98C9-8FF21867BD00}
+      <SOURCE MP3
+        FILE "Sneaker Jump Solid Wood - Free Sound Effects.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Wood\WoodLand\Sneaker Jump Solid Wood - Free Sound Effects.mp3"
+      >
+    >
+  >
+  <TRACK {1EC7B9C0-D66B-42D2-9FE1-109DD5062034}
+    NAME "Stone Land"
+    PEAKCOL 33521792
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.57736712470457 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1EC7B9C0-D66B-42D2-9FE1-109DD5062034}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1.06587877624357
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6F056B8F-F3C3-4CC4-B0D4-2974F049730F}
+      IID 226
+      NAME YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {34BA6B00-EAB1-46E4-AFB5-2ADB2338D9E4}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneLand\YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 1.06587877624357
+      SNAPOFFS 0
+      LENGTH 0.43412122375643
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {41EE0FF3-5294-4DD4-B43B-25CF01AF8502}
+      IID 226
+      NAME YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 2.56587877624357
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {890AD9F6-58EB-46DC-AF35-D9BD69A8902D}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneLand\YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 0.42196944728269
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4CB46331-3F25-45EA-88F8-1C963FEE3861}
+      IID 226
+      NAME YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {22EC4B9E-7978-4D96-AD7B-69BC0668E65C}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneLand\YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 1.92196944728269
+      SNAPOFFS 0
+      LENGTH 0.55496498426749
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {52DEC5FA-AA6A-4C17-8B4C-3885DEFE32BE}
+      IID 226
+      NAME YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.42196944728269
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {41687CB5-7BF1-4658-A776-19378A3C0606}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneLand\YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 2.47693443155018
+      SNAPOFFS 0
+      LENGTH 1.17480751828693
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {93A8E286-1E12-4A77-A632-FB11786E97C2}
+      IID 226
+      NAME YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.97693443155018
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5D86EBFB-7D6C-455D-BBEF-7BF1874CC03C}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneLand\YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 3.65174194983711
+      SNAPOFFS 0
+      LENGTH 0.50540678058174
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {76C8A0AA-9B0F-48FA-B60C-46A67F98C384}
+      IID 226
+      NAME YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 5.15174194983711
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {50DC89F8-8901-4674-B0FE-39E738D67010}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneLand\YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 4.15714873041886
+      SNAPOFFS 0
+      LENGTH 3.28870327646149
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E042AA2A-C29B-40ED-8C23-13E57161216B}
+      IID 226
+      NAME YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 5.65714873041886
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {341BDF2E-8EA0-4237-8DAE-6C5A5671EC03}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneLand\YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 7.44585200688035
+      SNAPOFFS 0
+      LENGTH 0.49828837522144
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E9F01239-807A-46CE-8685-3C6592F2D7CF}
+      IID 226
+      NAME YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 8.94585200688035
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9D0A4380-AE3B-45E4-B2D4-4512355E9CE3}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneLand\YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 7.94414038210179
+      SNAPOFFS 0
+      LENGTH 1.27419455949482
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {63B67F76-31C6-485F-ACE3-3A8BC9D4EEE6}
+      IID 226
+      NAME YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 9.44414038210179
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A59E9E34-6254-4816-8A68-8DFC543255C7}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneLand\YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 9.21833494159661
+      SNAPOFFS 0
+      LENGTH 0.58370923954511
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {98970F0D-9F6C-4C52-9B1B-A544FE55C0DD}
+      IID 226
+      NAME YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 10.71833494159661
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99230BB4-E418-4212-BC69-6AC7CABADF66}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneLand\YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 9.80204418114172
+      SNAPOFFS 0
+      LENGTH 0.69795581885828
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9F57B3FC-8664-48A7-A1B4-B8734D93E73C}
+      IID 226
+      NAME YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 11.30204418114172
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {136D05DA-8BF3-4B11-9D15-13DC8C2A929D}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneLand\YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 10.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6441B3AD-B31D-4C66-84C2-74D93AB8015D}
+      IID 226
+      NAME YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 12
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CC891767-3C01-4FC7-9C8C-529641769DCF}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneLand\YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 11
+      SNAPOFFS 0
+      LENGTH 2.81081614964373
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2DB99B59-2D30-45BA-BF44-2B0740B5D096}
+      IID 226
+      NAME YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 12.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5CF3AE5A-54FF-469B-A0DB-39AFB2E4E492}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneLand\YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 13.81081614964373
+      SNAPOFFS 0
+      LENGTH 0.71095255783926
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EC2F5A7E-92DA-4F9C-9BD9-DBB071700A3D}
+      IID 226
+      NAME YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 15.31081614964373
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B3D3B56B-F6BD-4882-8947-C0C07AC58D1B}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stone\StoneLand\YTMP3GG_YouTube_Sneaker-Large-Jumps-Concrete-Free-Sound-_Media_gSjPsmxm8G8_007_128k.mp3"
+      >
+    >
+  >
+  <TRACK {BC5BEFFD-0497-42ED-84CE-B880E1B487C0}
+    NAME "Stairs Land"
+    PEAKCOL 33521792
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BC5BEFFD-0497-42ED-84CE-B880E1B487C0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.5882505259499
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {38AA9557-5B49-4225-BA3A-19ED078F8105}
+      IID 230
+      NAME YTMP3GG_YouTube_Sneaker-Large-Hollow-Wood-Free-Sound-Eff_Media_rC4lxcE2CDw_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 15.61932658971864
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {090B5361-CA4C-4388-B30D-76415BB110D3}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Hollow-Wood-Free-Sound-Eff_Media_rC4lxcE2CDw_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stairs\StairsLand\YTMP3GG_YouTube_Sneaker-Large-Hollow-Wood-Free-Sound-Eff_Media_rC4lxcE2CDw_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 0.95956133946482
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E11BF69C-7656-4FE3-8200-341268CB35A8}
+      IID 230
+      NAME YTMP3GG_YouTube_Sneaker-Large-Hollow-Wood-Free-Sound-Eff_Media_rC4lxcE2CDw_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.25743231632192
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {395398EA-4365-4077-82C0-62D01F755881}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Hollow-Wood-Free-Sound-Eff_Media_rC4lxcE2CDw_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stairs\StairsLand\YTMP3GG_YouTube_Sneaker-Large-Hollow-Wood-Free-Sound-Eff_Media_rC4lxcE2CDw_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 2.5
+      SNAPOFFS 0
+      LENGTH 0.67506382366641
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D335A385-226C-4275-9667-0D4B5ED766D8}
+      IID 230
+      NAME YTMP3GG_YouTube_Sneaker-Large-Hollow-Wood-Free-Sound-Eff_Media_rC4lxcE2CDw_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 18.68818477815617
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {75A8260D-BB92-4222-86B1-63B2E288A5E1}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Hollow-Wood-Free-Sound-Eff_Media_rC4lxcE2CDw_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stairs\StairsLand\YTMP3GG_YouTube_Sneaker-Large-Hollow-Wood-Free-Sound-Eff_Media_rC4lxcE2CDw_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 3.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {37171FC6-BBF2-43C5-9B3C-7BB1E76B11A3}
+      IID 230
+      NAME YTMP3GG_YouTube_Sneaker-Large-Hollow-Wood-Free-Sound-Eff_Media_rC4lxcE2CDw_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7454D6AC-4B72-4B4F-98AE-838CA0C8D242}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Hollow-Wood-Free-Sound-Eff_Media_rC4lxcE2CDw_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stairs\StairsLand\YTMP3GG_YouTube_Sneaker-Large-Hollow-Wood-Free-Sound-Eff_Media_rC4lxcE2CDw_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 0.84836379033898
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6FC27558-DA0A-4FE7-8A1E-7C17E8307847}
+      IID 230
+      NAME YTMP3GG_YouTube_Sneaker-Large-Hollow-Wood-Free-Sound-Eff_Media_rC4lxcE2CDw_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 22.99448743838042
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5C0BF4E0-64F1-499A-9DCB-A1DDB9C4D989}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Hollow-Wood-Free-Sound-Eff_Media_rC4lxcE2CDw_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stairs\StairsLand\YTMP3GG_YouTube_Sneaker-Large-Hollow-Wood-Free-Sound-Eff_Media_rC4lxcE2CDw_007_128k.mp3"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.68675782887109
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AB7CF0B3-06C3-48F3-9C0C-630DFC847C10}
+      IID 230
+      NAME YTMP3GG_YouTube_Sneaker-Large-Hollow-Wood-Free-Sound-Eff_Media_rC4lxcE2CDw_007_128k.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 16.61502721590451
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0651A226-6BED-47A8-B98D-49BCA8B4CA66}
+      <SOURCE MP3
+        FILE "YTMP3GG_YouTube_Sneaker-Large-Hollow-Wood-Free-Sound-Eff_Media_rC4lxcE2CDw_007_128k.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Footsteps\Stairs\StairsLand\YTMP3GG_YouTube_Sneaker-Large-Hollow-Wood-Free-Sound-Eff_Media_rC4lxcE2CDw_007_128k.mp3"
+      >
+    >
+  >
+  <TRACK {0845207F-FDC3-4AC1-ADDB-5B450AA94816}
+    NAME "Chandelier Land"
+    PEAKCOL 33521792
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0845207F-FDC3-4AC1-ADDB-5B450AA94816}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {808D03A2-4978-4F99-8D34-FD58E11F69F9}
+    NAME "Door Open"
+    PEAKCOL 20988032
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {808D03A2-4978-4F99-8D34-FD58E11F69F9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {10A2B734-DFA0-4B0A-AF33-7B0C569E03DD}
+    NAME "Door Close"
+    PEAKCOL 20988032
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {10A2B734-DFA0-4B0A-AF33-7B0C569E03DD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.3969329587337
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1D3219EE-B1EB-4742-8721-CCF9D05E9C2E}
+      IID 135
+      NAME Drs_Wood_DoubleDoor_Close_01.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {143BF432-4629-4555-9C34-9BE0D0F3F69F}
+      <SOURCE WAVE
+        FILE "Drs_Wood_DoubleDoor_Close_01.WAV"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Doors\Close\Drs_Wood_DoubleDoor_Close_01.WAV"
+      >
+    >
+    <ITEM
+      POSITION 0.3969329587337
+      SNAPOFFS 0
+      LENGTH 0.19193325441823
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {83F71E7E-F25C-40CF-B1A1-1352E832BF27}
+      IID 135
+      NAME Drs_Wood_DoubleDoor_Close_01.WAV
+      VOLPAN 1 0 1 -1
+      SOFFS 0.3969329587337
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {53D918A6-601C-4159-AFE2-98B400D029E1}
+      <SOURCE WAVE
+        FILE "Drs_Wood_DoubleDoor_Close_01.WAV"
+      >
+      <EXT
+        ORIGINAL_FILENAME "C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Raw Audio Reaper\Doors\Close\Drs_Wood_DoubleDoor_Close_01.WAV"
+      >
+    >
+  >
+  <TRACK {5C6E9E7F-DB66-41A2-BA03-2F47B021D384}
+    NAME Mice
+    PEAKCOL 25198656
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5C6E9E7F-DB66-41A2-BA03-2F47B021D384}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 1.51585390533663
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {9819D564-4BBF-4BB7-811D-58BDC32978C1}
+      IID 130
+      NAME freesound_community-mouse-squeaks-68287.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.63245805190099
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3064E25-5E22-4408-A775-99DDC089C858}
+      <SOURCE MP3
+        FILE "freesound_community-mouse-squeaks-68287.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Audio\SFX\Sound_Effects\freesound_community-mouse-squeaks-68287.mp3
+      >
+    >
+    <ITEM
+      POSITION 3.14831195723763
+      SNAPOFFS 0
+      LENGTH 1.15115582991195
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {D845C04F-2D15-468F-9389-0E789871F903}
+      IID 130
+      NAME freesound_community-mouse-squeaks-68287.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.14831195723763
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1A4EE80-823A-4E6A-8726-00C25362CCAC}
+      <SOURCE MP3
+        FILE "freesound_community-mouse-squeaks-68287.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Audio\SFX\Sound_Effects\freesound_community-mouse-squeaks-68287.mp3
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {C455C9DE-0008-459A-9AB6-9AC49856AA43}
+      IID 130
+      NAME freesound_community-mouse-squeaks-68287.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1243F7B1-1A1F-4250-9FEC-150A8B1C1C95}
+      <SOURCE MP3
+        FILE "freesound_community-mouse-squeaks-68287.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Audio\SFX\Sound_Effects\freesound_community-mouse-squeaks-68287.mp3
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 1.31793000575027
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.34558498546337 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {638C8B78-69CB-44E3-B13C-EA6184670E1B}
+      IID 130
+      NAME freesound_community-mouse-squeaks-68287.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 12.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {09B19544-B38E-4CA7-8D5D-EAD498C95105}
+      <SOURCE MP3
+        FILE "freesound_community-mouse-squeaks-68287.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Audio\SFX\Sound_Effects\freesound_community-mouse-squeaks-68287.mp3
+      >
+    >
+    <ITEM
+      POSITION 10
+      SNAPOFFS 0
+      LENGTH 1.91171019192446
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {2D7E006D-4E17-47CB-A919-BEB9A5D2C7F1}
+      IID 130
+      NAME freesound_community-mouse-squeaks-68287.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 13.81793000575027
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {20931224-F249-4C5E-B330-67622BA5F222}
+      <SOURCE MP3
+        FILE "freesound_community-mouse-squeaks-68287.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Audio\SFX\Sound_Effects\freesound_community-mouse-squeaks-68287.mp3
+      >
+    >
+    <ITEM
+      POSITION 12.5
+      SNAPOFFS 0
+      LENGTH 2.25233093803542
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {D5FF6E94-C68B-4D67-8D77-B474986D0F27}
+      IID 130
+      NAME freesound_community-mouse-squeaks-68287.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 16.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E68E1F32-A4A7-40F3-B704-D844F9742C46}
+      <SOURCE MP3
+        FILE "freesound_community-mouse-squeaks-68287.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Audio\SFX\Sound_Effects\freesound_community-mouse-squeaks-68287.mp3
+      >
+    >
+    <ITEM
+      POSITION 15.5
+      SNAPOFFS 0
+      LENGTH 1.24766906196458
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {F361DF81-0501-49C2-BFB3-D41704AE212D}
+      IID 130
+      NAME freesound_community-mouse-squeaks-68287.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 18.75233093803542
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1D37A716-9135-445F-B14E-0FDD99022A66}
+      <SOURCE MP3
+        FILE "freesound_community-mouse-squeaks-68287.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Audio\SFX\Sound_Effects\freesound_community-mouse-squeaks-68287.mp3
+      >
+    >
+    <ITEM
+      POSITION 17.5
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {212BDA3D-9D82-46DB-A842-AA7F39EA5D1A}
+      IID 130
+      NAME freesound_community-mouse-squeaks-68287.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 20
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6694D232-8AE6-4E01-87D8-5D3024874D66}
+      <SOURCE MP3
+        FILE "freesound_community-mouse-squeaks-68287.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Audio\SFX\Sound_Effects\freesound_community-mouse-squeaks-68287.mp3
+      >
+    >
+    <ITEM
+      POSITION 21
+      SNAPOFFS 0
+      LENGTH 2.16024671420329
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.2483199834646 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8BF7DE2F-96B0-4702-B903-D04BB61E1898}
+      IID 130
+      NAME freesound_community-mouse-squeaks-68287.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 22.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {612F7361-C2FC-4F7E-BDFF-09413361D247}
+      <SOURCE MP3
+        FILE "freesound_community-mouse-squeaks-68287.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Audio\SFX\Sound_Effects\freesound_community-mouse-squeaks-68287.mp3
+      >
+    >
+    <ITEM
+      POSITION 24.5
+      SNAPOFFS 0
+      LENGTH 2.09586875953114
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {473DE479-E1A3-4E04-A815-BEC55E79F7D3}
+      IID 130
+      NAME freesound_community-mouse-squeaks-68287.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 25.18056642799116
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {50D6ED6D-BA84-4E02-8C07-8AD663CA8C59}
+      <SOURCE MP3
+        FILE "freesound_community-mouse-squeaks-68287.mp3" 1
+      >
+      <EXT
+        ORIGINAL_FILENAME C:\Users\magda\Documents\GitHub\TheTavernAudio_easy_blank_refactor\Fmod_and_audio_files\21.04\Audio\SFX\Sound_Effects\freesound_community-mouse-squeaks-68287.mp3
+      >
+    >
+  >
+>
