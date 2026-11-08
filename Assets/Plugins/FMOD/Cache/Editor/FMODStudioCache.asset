@@ -71,10 +71,10 @@ MonoBehaviour:
   Path: Audio/FMOD Studio/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639297257713460758
+  lastModified: 639297354670593938
   FileSizes:
   - Name: Desktop
-    Value: 1632
+    Value: 1680
   Exists: 1
 --- !u!114 &-4689427327124226260
 MonoBehaviour:
@@ -267,13 +267,14 @@ MonoBehaviour:
   - {fileID: 246777508184695485}
   - {fileID: -3514593938840565848}
   - {fileID: -3068821582513968412}
+  - {fileID: 2798458919075692222}
   EditorParameters: []
   MasterBanks:
   - {fileID: 1164223284710114129}
   StringsBanks:
   - {fileID: -6665839181993282295}
   cacheVersion: 131861
-  cacheTime: 639297257713460758
+  cacheTime: 639297354670593938
   SerializableEventsDict:
   - key: event:/Ambience/Tavern/Amb_tavern_music
     index: 0
@@ -295,6 +296,8 @@ MonoBehaviour:
     index: 8
   - key: event:/Player/Player_Land
     index: 9
+  - key: event:/Music
+    index: 10
 --- !u!114 &246777508184695485
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -365,11 +368,38 @@ MonoBehaviour:
   Path: Audio/FMOD Studio/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639297257713450377
+  lastModified: 639297354670568017
   FileSizes:
   - Name: Desktop
-    Value: 9530400
+    Value: 9531392
   Exists: 1
+--- !u!114 &2798458919075692222
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/Music
+  Guid:
+    Data1: -1458314881
+    Data2: 1331105764
+    Data3: 1670984580
+    Data4: -2002169702
+  Banks:
+  - {fileID: 1164223284710114129}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 145000
 --- !u!114 &5848501970734905601
 MonoBehaviour:
   m_ObjectHideFlags: 0
